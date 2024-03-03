@@ -1,0 +1,3 @@
+It is a web app that can measure the height of any object using triangulation. The app is a simple website implemented using vanilla JavaScript. It uses the orientation sensor on the device to measure the angle you're pointing it at. Then, knowing the angle and the distance from the object it uses triangulation to estimate the height of the object.
+
+You can use this app to measure a tree, for example, which is very useful in forestry applications, but you can also measure other things like buildings and even small things around the house
